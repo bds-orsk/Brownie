@@ -1,0 +1,38 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dомовой</string>
+    <string name="title_activity_device_control">deviceControl</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+    <string name="select_device">select_device</string>
+    <string name="none_found">none_found</string>
+    <string name="scanning">scanning</string>
+    <string name="none_paired">none_paired</string>
+
+    <string name="title_other_devices">title_other_devices</string>
+    <string name="button_scan">button_scan</string>
+    <string name="title_paired_devices">title_paired_devices</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sample_show_log">sample_show_log</string>
+    <string name="sample_hide_log">sample_hide_log</string>
+    <string name="intro_message">intro_message</string>
+
+    <string name="not_connected">not_connected</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_connecting">title_connecting</string>
+    <string name="title_not_connected">title_not_connected</string>
+
+    <string name="bt_not_enabled_leaving">bt_not_enabled_leaving</string>
+
+    <string name="secure_connect">secure_connect</string>
+    <string name="insecure_connect">insecure_connect</string>
+    <string name="discoverable">discoverable</string>
+
+
+    <string name="send">send</string>
+
+
+
+
+</resources>
